@@ -1,0 +1,27 @@
+======================================================================
+        EMPLOYEE MANAGEMENT SYSTEM - RUNNING INSTRUCTIONS
+======================================================================
+
+PREREQUISITES:
+- Java Development Kit (JDK 8 or higher) installed.
+- Terminal / Command Prompt / VS Code.
+
+HOW TO COMPILE AND RUN:
+
+1. Open your terminal at the project root directory:
+   EmployeeManagementApplication
+
+2. Compile all Java source files and generate package directories:
+   javac -d . *.java
+
+3. Run the application:
+   java com.sj.empmanagmentapplication.Main
+
+APPLICATION USAGE:
+- Option 1: Add a new employee with ID, Name, Age, Designation, Department, and Salary.
+- Option 2: Search and view an employee by ID.
+- Option 3: Update employee name and salary by ID.
+- Option 4: Delete an employee record by ID.
+- Option 5: List all active employee records.
+- Option 6: Exit the system.
+======================================================================
