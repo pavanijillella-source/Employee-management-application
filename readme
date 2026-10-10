@@ -39,7 +39,6 @@ A console-based **Employee Management System built using Java** to perform CRUD 
 - **Exception and Input Handling:** Manage user input and invalid employee lookups.
 
 ---
-
 ## 📂 Project Structure
 
 ```text
